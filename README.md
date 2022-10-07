@@ -10,7 +10,7 @@
 2. Click **STAND** to deal then the AI will start showing you its cards 
 **do not press anything while the AI is showing you its cards**
 
-*If the AI is done the game will tell you who won and the table will be updated*
+- *If the AI is done the game will tell you who won and the table will be updated*
 
 3. Click **DEAL** to play again
 
