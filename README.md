@@ -3,17 +3,17 @@
 
 # **HOW TO PLAY**
 
-click **HIT** to start selecting your cards
+1. Click **HIT** to start selecting your cards
 **until you think you have enough cards to win** 
 *please do not bust by pushing your luck*
 
-click **STAND** to deal then the AI will start showing you its cards 
+2. Click **STAND** to deal then the AI will start showing you its cards 
 **do not press anything while the AI is showing you its cards**
 
 *If the AI is done the game will tell you who won and the table will be updated*
 
-click **DEAL** to play again
+3. Click **DEAL** to play again
 
-**ENJOY**
+## **ENJOY**
 
 Acknowledgements : *Rafeh Qazi* from the **Clever Programmer**
