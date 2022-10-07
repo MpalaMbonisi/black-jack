@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Black jack</title>
+    <link rel="stylesheet" href="static/styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="title">Black Jack</div>
+        <div class="subtitle">
+            <span id="subtitle">Let's Play</span>
+        </div>
+        <div class="flexbox-row-1">
+            <div id="player-box">
+                <h1>You : <span id="player-blackjack-score">0</span></h1>
+            </div>
+            <div id="ai-box">
+                <h1>Dealer : <span id="ai-blackjack-score">0</span></h1>
+            </div>
+        </div>
+        <div class="flexbox-row-2">
+            <div class="flexbox-buttons">
+                <button class="hit-button" id="hit-button">Hit</button>
+                <button class="stand-button" id="stand-button">Stand</button>
+                <button class="deal-button" id="deal-button">Deal</button>
+            </div>
+        </div>
+        <div class="flexbox-row-3">
+            <table>
+                <tr>
+                    <th>Wins</th>
+                    <th>Losses</th>
+                    <th>Draws</th>
+                </tr>
+                <tr>
+                    <td><span id="wins">0</span></td>
+                    <td><span id="losses">0</span></td>
+                    <td><span id="draws">0</span></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="static/script.js"></script>
+</body>
+
+</html>
