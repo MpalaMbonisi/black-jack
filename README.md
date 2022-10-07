@@ -8,7 +8,7 @@
 *please do not bust by pushing your luck*
 
 2. Click **STAND** to deal then the AI will start showing you its cards 
-**do not press anything while the AI is showing you its cards**
+**do not press anything while the AI is showing you its cards or after**
 
 - *If the AI is done the game will tell you who won and the table will be updated*
 
